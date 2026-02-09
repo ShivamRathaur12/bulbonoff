@@ -1,41 +1,4 @@
-/* .main{
-    position: absolute;
-    top: 50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    width:400px;
-    height:400px;
-    text-align: center;
-}
 
- .heading{
-    position: absolute;
-    left:50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-}
-/* .lightimg{
-    position: absolute;
-    top: 50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-} */ 
-/* .btn1:hover{
-    color:#fff;
-    background-color:green;
-}
-
-.btn2:hover{
-    color:#fff;
-    background-color:red;
-}
-img{
-    width: 120px;
-    height: 170px;
-    border-radius: 50px;
-} */ 
-
-/* Reset */
 * {
     margin: 0;
     padding: 0;
